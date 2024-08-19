@@ -12,6 +12,4 @@
 - Ruby 3.0.0
 - Rails 6.1.0
 - PostgreSQL (or your preferred database)
-- Node.js (for JavaScript runtime)
-- Yarn (for managing JavaScript packages)
 
