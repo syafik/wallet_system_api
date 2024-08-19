@@ -26,10 +26,11 @@
 
 Ensure your `config/database.yml` is correctly configured for your environment. You may also need to configure other services or third-party APIs.
 
-For example, if you use an external API, set the API keys in the `.env` file:
+   For example, if you use an external API, set the API keys in the `.env` file:
 
-```env
-API_KEY=your_api_key
+   ```env
+   API_KEY=your_api_key
+
 
 ## Running the Application
 
