@@ -1,0 +1,12 @@
+development:
+  adapter:  postgresql
+  database: wallet_system_dev
+  # database: buzz-prod-development
+  username:
+  password:
+
+test:
+  adapter:  postgresql
+  database: wallet_system_test
+  username:
+  password:
