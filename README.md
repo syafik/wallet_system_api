@@ -13,7 +13,6 @@
 ## Installation
 
 1. **Clone the Repository**
-
    ```bash
    git clone git@github.com:syafik/wallet_system_api.git
    cd wallet_system_api
@@ -23,7 +22,15 @@
    rails db:seed
 
 ## Configuration
-```bash
+Ensure config/database.yml is set up correctly.
+
+## Running the Application
+``bash
 rails server
+
+## API ENDPOINTS
+https://documenter.getpostman.com/view/833810/2sA3s9EUWC
+
+
 
 
