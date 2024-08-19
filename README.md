@@ -23,15 +23,7 @@
    rails db:seed
 
 ## Configuration
-
-Ensure your `config/database.yml` is correctly configured for your environment. You may also need to configure other services or third-party APIs.
-
-For example, if you use an external API, set the API keys in the `.env` file:
-
 ```bash
-API_KEY=your_api_key
-
-API Documentation : https://documenter.getpostman.com/view/833810/2sA3s9EUWC
-
+rails server
 
 
